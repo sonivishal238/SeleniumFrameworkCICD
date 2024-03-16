@@ -15,6 +15,7 @@ import pageobjects.OrdersPage;
 import pageobjects.ProductCatalogue;
 import testcomponents.BaseTest;
 
+// Lets run using CICD
 public class SubmitOrderTest extends BaseTest {
 
 	//String zaraCoatName = "ZARA COAT 3";
